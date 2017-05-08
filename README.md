@@ -5,6 +5,8 @@ written by litearc
 
 [LÖVE forum topic](https://love2d.org/forums/viewtopic.php?f=5&t=9265)
 
+![Navi](doc/navi.png)  
+[Video link](https://www.youtube.com/watch?v=7BIxV5awIZ8)
 
 ## Intro
 
@@ -286,5 +288,6 @@ because I'm lazy).
 ## Acknowledgements
 
 Anyway, that's it! Thanks to the LÖVE developers for creating such a great
-program and to the LÖVE community for their support and interest.
+program and to the LÖVE community for their support and interest. The libary is
+licensed by the [MIT License](LICENSE.md), so feel free to copy and modify it.
 
